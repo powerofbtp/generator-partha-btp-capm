@@ -1,7 +1,14 @@
 # SAP Business Technology platform 
 
 
+#Welcome to BTP world enhanced By Partha Sarathi Goswami
+P.N - This generator is extension version of SAP's published generator.
+I have enhanced it, to fullfill some of the real-world requirement. 
+And there will be some more enhancements on top of this, to help the community. Keep sharing!
 
-# Getting Started
 
-A yeoman generator which helps you generating cap project
+#Please checkout my BTP Vlogs here..
+
+https://youtube.com/c/ParthaSAPtechEngineer
+
+https://www.linkedin.com/in/parthasap/
